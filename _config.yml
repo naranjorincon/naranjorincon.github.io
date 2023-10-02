@@ -88,7 +88,7 @@ author:
   pubmed           : ""
   googlescholar    : ""
   email            : "naranjorincon@wustl.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Samuel-Naranjo-Rincon" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Samuel-Naranjo-Rincon" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/samuel-naranjo-rincon-29000b163/"
+  linkedin         : "in/samuel-naranjo-rincon-29000b163/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
